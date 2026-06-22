@@ -47,7 +47,7 @@ async function payOnline(){
   if(btn){btn.disabled=true;btn.textContent='Opening Razorpay...'}
   try{
     const options={
-      key:'rzp_live_T4dSCa20CpZegQ',
+      key:'rzp_live_T4g4jxUxggTYe0',
       amount:Math.round(total*100),
       currency:'INR',
       name:'ShopTo',
