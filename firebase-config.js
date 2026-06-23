@@ -1,0 +1,12 @@
+// Firebase config yahan paste karo
+// Firebase Console > Project settings > Web app config se values copy karo
+const firebaseConfig = {
+  apiKey: "PASTE_API_KEY",
+  authDomain: "PASTE_PROJECT.firebaseapp.com",
+  projectId: "PASTE_PROJECT_ID",
+  storageBucket: "PASTE_PROJECT.appspot.com",
+  messagingSenderId: "PASTE_SENDER_ID",
+  appId: "PASTE_APP_ID"
+};
+const RAZORPAY_KEY_ID = "rzp_live_T4g4jxUxggTYeO";
+const WHATSAPP_NUMBER = "919763301074";
