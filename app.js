@@ -1,6 +1,6 @@
 
 const WHATSAPP_NUMBER='919763301074';
-const RAZORPAY_KEY_ID='rzp_live_T4dSCa20CpZegQ';
+const RAZORPAY_KEY_ID='rzp_live_T4dSCa2OCpZegO';
 const money=n=>Number(n||0).toLocaleString('en-IN');
 const fallback='https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=900&q=80';
 const cats=[['all','All'],['men','Men Clothing'],['women','Women Clothing'],['kids','Kids Clothing'],['tshirt','T-Shirts'],['shirt','Shirts'],['jeans','Jeans'],['innerwear','Innerwear'],['shoes','Shoes'],['slippers','Chappal/Slippers'],['mobile-cover','Mobile Covers'],['earbuds','Earbuds'],['headphones','Headphones'],['speaker','Speakers'],['led-light','LED Lights'],['watch','Watches'],['bag','Bags'],['charger','Chargers'],['powerbank','Power Banks'],['beauty','Beauty'],['home','Home Items']];
