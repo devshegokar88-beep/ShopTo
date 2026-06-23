@@ -1,4 +1,3 @@
-// Firebase config paste here when ready.
 const firebaseConfig = {
   apiKey: "PASTE_API_KEY",
   authDomain: "PASTE_PROJECT.firebaseapp.com",
@@ -7,6 +6,5 @@ const firebaseConfig = {
   messagingSenderId: "PASTE_SENDER_ID",
   appId: "PASTE_APP_ID"
 };
-
 const RAZORPAY_KEY_ID = "rzp_live_T4g4jxUxggTYeO";
 const WHATSAPP_NUMBER = "919763301074";
